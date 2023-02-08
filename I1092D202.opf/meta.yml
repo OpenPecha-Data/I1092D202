@@ -1,0 +1,16 @@
+id: I1092D202
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:15:38.857454
+last_modified: 2023-02-08 15:15:38.857542
+source_metadata:
+  title: 'PP: Prajñāpāramitāhṛdaya'
+  language: en
+bases:
+  '4420':
+    base_file: 4420.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
